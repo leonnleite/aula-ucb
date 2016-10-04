@@ -1,0 +1,13 @@
+{
+    "name": "leonnleite/aula-ucb",
+    "description": "Projeto base para aula de PHP na ucb",
+    "authors": [
+        {
+            "name": "Leonn Leite",
+            "email": "leonnleite@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^2.5"
+    }
+}
