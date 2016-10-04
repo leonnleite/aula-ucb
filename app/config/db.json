@@ -1,7 +1,7 @@
 {
     "driver": "pdo_mysql",
-    "host": "unimall.app",
-    "user": "homestead",
-    "password": "secret",
+    "host": "localhost",
+    "user": "root",
+    "password": "root",
     "dbname": "phpucb"
 }
